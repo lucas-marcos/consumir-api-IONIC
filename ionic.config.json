@@ -1,0 +1,7 @@
+{
+  "name": "atividadeInioc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
